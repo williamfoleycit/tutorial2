@@ -3,3 +3,4 @@
 "Chelsea."
 " Change added in dazzling_feature branch."
 "stamford bridge."
+"change made as collaborator."
